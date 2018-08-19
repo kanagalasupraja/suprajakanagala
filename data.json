@@ -1,0 +1,58 @@
+{
+	"details":{
+		"image":"photo.jpg",
+		"name":"supraja",
+		"phoneno":"999999932",
+		"emailid":"suprajakanagala@gmail.com",
+		"address":"vignan's nirula college."
+	},
+	"career":{
+		"info":"to pursure a challenge career."
+	},
+	"education":[
+		{
+				"qualification":"b-tech",
+				"institue":"vignan's nirula college",
+				"year":"2016-2020",
+				"percentage":"85%"
+		},
+		{
+	
+				"qualification":"intermediate",
+				"institue":"sri chaitanya",
+				"year":"2014-2016",
+				"percentage":"92%"
+		},
+		{
+				"qualification":"10th",
+				"institue":"kakatheeya",
+				"year":"2014",
+				"percentage":"93%"
+		}
+	],
+	"skills":[
+		{
+			"title":"programing language",
+			"info":["c","java","c++","python","R"]
+		},
+		{
+			"title":"database",
+			"info":["oracle","mysql","sql"]
+		},
+		{
+			"title":"operating systems",
+			"info":["windows","linux","unix","ubuntu"]
+		}
+	],
+	"achivements":[
+		{
+			"title":"group discussion",
+			"info": "2nd price in gd"
+		},
+		{
+			"title":"in IOT",
+			"info":"got certificate in iot"
+		}
+	]
+
+}
